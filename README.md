@@ -98,4 +98,6 @@ Base URL: `/service/v1`
   </tr>
 </table>
 <!-- /contributors -->
+
+<br>
 Special thanks to Professor Dr. Razer A. N. R. Montaño
